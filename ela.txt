@@ -1,2 +1,4 @@
 ela's learing session
 lets begin the session
+first will start from git init
+next linegit 
